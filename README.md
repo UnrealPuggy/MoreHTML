@@ -1,5 +1,5 @@
 # MoreHTML
-##Full of helpful JavaScript and CSS styling and classes for importation
+## Full of helpful JavaScript and CSS styling and classes for importation
 
 <details>
 <summary>To Add</summary>
