@@ -1,4 +1,4 @@
-class PugMath {
+export default class PugMath {
     clampMin(x, min) {
         return Math.max(x, min);
     }
@@ -10,5 +10,8 @@ class PugMath {
     }
     random(min, max) {
         return Math.round(max-min*(Math.random()));
+    }
+    RoundTo(x,rounded) {
+        return Math.round(x/rounded)*rounded
     }
 }
