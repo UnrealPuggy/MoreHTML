@@ -4,6 +4,7 @@
 <details>
 <summary>To Add</summary>
 
-Copy the code for each element into your file. Classes are currently being worked on for import
+Download the files and import them like you usually would. For classes after downloading do `import <class-name> from '<file>';`
+
 
 </details>
